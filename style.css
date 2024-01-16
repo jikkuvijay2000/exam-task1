@@ -1,0 +1,64 @@
+
+.navbar
+{
+  background-color: black;
+}
+
+
+
+
+h2
+{
+    color:azure ;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+}
+
+p
+{
+    color:azure ;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+}
+
+#but
+{
+    color: black;
+    border-radius: 15px;
+    border-color: yellow;
+    padding: 15px;
+    background-color: yellow;
+    color:black ;
+    position: absolute;
+    top: 55%;
+    left: 15%;
+    width: 200px;
+}
+
+#but:hover
+{
+    border-color: red;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover
+{
+    color: yellow;
+}
+
+
+
+#p1
+{
+    color: black;
+}
+
